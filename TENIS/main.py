@@ -1,3 +1,3 @@
-from juego import mostrarJuego
+from modulos.juego import mostrarJuego
 
 mostrarJuego()
