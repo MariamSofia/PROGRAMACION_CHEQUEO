@@ -1,5 +1,5 @@
-from juego import *
-from puntajes import *
+from Modulos.juego import *
+from Modulos.utilidades import *
 
 def menu():
     """
